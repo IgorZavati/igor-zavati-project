@@ -1,0 +1,5 @@
+com\igorzavati\springbootrestapi\dao\UserDAO.class
+com\igorzavati\springbootrestapi\model\User.class
+com\igorzavati\springbootrestapi\controller\UserController.class
+com\igorzavati\springbootrestapi\UserApplication.class
+com\igorzavati\springbootrestapi\repository\UserRepository.class
